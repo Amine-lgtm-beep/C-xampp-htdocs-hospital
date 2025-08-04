@@ -1,6 +1,6 @@
 # 🏥 Hospital Management System
 
-![Hospital Banner](./banner.jpg)
+
 
 > *Image by [Freepik](https://www.freepik.com/free-photo/stomatolog-nurse-tooth-clinic-checking-patient-appointment-looking-computer-monitor-stomatology-assistant-teeth-doctor-discussing-reception-dental-office_17437513.htm)*
 
